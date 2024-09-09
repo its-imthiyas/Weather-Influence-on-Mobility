@@ -34,4 +34,4 @@ I also want to extend my heartfelt appreciation to **Belén González Guío**, *
 Finally, I am deeply indebted to my parents, **Abdul Rasheeth** and **Shameem Begum**, whose unwavering support and love have been the cornerstone of my academic journey. Special thanks to **Hari Loganathan** for his steadfast encouragement, which has been a constant source of motivation. I also wish to acknowledge my family — **Ghousiya**, **Zaim**, and **Salman** — for their patience and understanding. Lastly, I am thankful to my friends for their continued encouragement and companionship.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
